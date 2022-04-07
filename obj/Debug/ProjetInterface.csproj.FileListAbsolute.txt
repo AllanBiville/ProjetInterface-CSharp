@@ -1,0 +1,12 @@
+P:\__CSharp\ProjetInterface\bin\Debug\ProjetInterface.exe.config
+P:\__CSharp\ProjetInterface\bin\Debug\ProjetInterface.exe
+P:\__CSharp\ProjetInterface\bin\Debug\ProjetInterface.pdb
+P:\__CSharp\ProjetInterface\obj\Debug\ProjetInterface.Properties.Resources.resources
+P:\__CSharp\ProjetInterface\obj\Debug\ProjetInterface.csproj.GenerateResource.cache
+P:\__CSharp\ProjetInterface\obj\Debug\ProjetInterface.csproj.CoreCompileInputs.cache
+P:\__CSharp\ProjetInterface\obj\Debug\ProjetInterface.exe
+P:\__CSharp\ProjetInterface\obj\Debug\ProjetInterface.pdb
+P:\__CSharp\ProjetInterface\obj\Debug\ProjetInterface.Form1.resources
+P:\__CSharp\ProjetInterface\obj\Debug\ProjetInterface.csprojAssemblyReference.cache
+P:\__CSharp\ProjetInterface\obj\Debug\ProjetInterface.csproj.AssemblyReference.cache
+P:\__CSharp\ProjetInterface\obj\Debug\ProjetInterface.csproj.SuggestedBindingRedirects.cache
